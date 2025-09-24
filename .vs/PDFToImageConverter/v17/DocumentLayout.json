@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\bright-sdk\\wpf\\PDFToImageConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D01AE832-FA2E-49D5-BF0B-CA4DC5405375}|PDFToImageConverter\\PDFToImageConverter.csproj|f:\\projects\\bright-sdk\\wpf\\pdftoimageconverter\\pdftoimageconverter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01AE832-FA2E-49D5-BF0B-CA4DC5405375}|PDFToImageConverter\\PDFToImageConverter.csproj|solutionrelative:pdftoimageconverter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01AE832-FA2E-49D5-BF0B-CA4DC5405375}|PDFToImageConverter\\PDFToImageConverter.csproj|F:\\Projects\\bright-sdk\\wpf\\PDFToImageConverter\\pdftoimageconverter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D01AE832-FA2E-49D5-BF0B-CA4DC5405375}|PDFToImageConverter\\PDFToImageConverter.csproj|solutionrelative:pdftoimageconverter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01AE832-FA2E-49D5-BF0B-CA4DC5405375}|PDFToImageConverter\\PDFToImageConverter.csproj|F:\\Projects\\bright-sdk\\wpf\\PDFToImageConverter\\pdftoimageconverter\\brd_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D01AE832-FA2E-49D5-BF0B-CA4DC5405375}|PDFToImageConverter\\PDFToImageConverter.csproj|solutionrelative:pdftoimageconverter\\brd_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "brd_config.json",
+              "DocumentMoniker": "F:\\Projects\\bright-sdk\\wpf\\PDFToImageConverter\\PDFToImageConverter\\brd_config.json",
+              "RelativeDocumentMoniker": "PDFToImageConverter\\brd_config.json",
+              "ToolTip": "F:\\Projects\\bright-sdk\\wpf\\PDFToImageConverter\\PDFToImageConverter\\brd_config.json",
+              "RelativeToolTip": "PDFToImageConverter\\brd_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T05:04:36.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\Projects\\bright-sdk\\wpf\\PDFToImageConverter\\PDFToImageConverter\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PDFToImageConverter\\MainWindow.xaml",
+              "ToolTip": "F:\\Projects\\bright-sdk\\wpf\\PDFToImageConverter\\PDFToImageConverter\\MainWindow.xaml",
+              "RelativeToolTip": "PDFToImageConverter\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-07T01:22:57.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Projects\\bright-sdk\\wpf\\PDFToImageConverter\\PDFToImageConverter\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PDFToImageConverter\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\Projects\\bright-sdk\\wpf\\PDFToImageConverter\\PDFToImageConverter\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PDFToImageConverter\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAKoCAAAAAAAAAAAkwM8CAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T01:22:56.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
